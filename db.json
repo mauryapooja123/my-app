@@ -1,0 +1,312 @@
+{
+  "event": [
+    {
+      "email": "anshika888@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "lastname": "maurya",
+      "name": "kiran",
+      "id": 14
+    },
+    {
+      "name": "kiran",
+      "lastname": "maurya",
+      "email": "anshika@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 15
+    },
+    {
+      "name": "kiran",
+      "lastname": "maurya",
+      "email": "gauta@gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 16
+    },
+    {
+      "name": "kiran",
+      "lastname": "maurya",
+      "email": "anshikaa@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 17
+    },
+    {
+      "name": "kiran",
+      "lastname": "maurya",
+      "email": "anshikarr@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 18
+    },
+    {
+      "name": "kavita",
+      "email": "anshika@123gmail.com",
+      "password": "oooooooooo",
+      "confirmpassword": "oooooooooooooo",
+      "id": 19
+    },
+    {
+      "name": "kavita",
+      "email": "anshika@123gmail.com",
+      "password": "pppppppppppppppp",
+      "confirmpassword": "oooooooooooooo",
+      "id": 20
+    }
+  ],
+  "student": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "confirmpassword": "",
+      "id": 20
+    },
+    {
+      "name": "kiran",
+      "email": "anshika@123gmail.com",
+      "password": "wf3r",
+      "confirmpassword": "xcv drgtd",
+      "id": 23
+    },
+    {
+      "name": "kiran",
+      "email": "anshika@123gmail.com",
+      "password": "pppp",
+      "confirmpassword": "everet",
+      "id": 24
+    },
+    {
+      "name": "kiranj",
+      "email": "anshikaoooo@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 25
+    },
+    {
+      "name": "kiranj",
+      "email": "anshikaoooo@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 26
+    },
+    {
+      "name": "rahul",
+      "email": "sai@gmail.com",
+      "password": "pppppppppppp",
+      "confirmpassword": "pppppppppppp",
+      "id": 27
+    },
+    {
+      "name": "rahul",
+      "email": "sai@gmail.com",
+      "password": "pppppppppppp",
+      "confirmpassword": "pppppppppppp",
+      "id": 28
+    },
+    {
+      "name": "rahul",
+      "email": "sai@gmail.com",
+      "password": "pppppppppppp",
+      "confirmpassword": "pppppppppppp",
+      "id": 29
+    },
+    {
+      "name": "rashi",
+      "email": "anshikaccccc@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 30
+    },
+    {
+      "name": "anshu",
+      "email": "saiggg@gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 31
+    },
+    {
+      "name": "anshu",
+      "email": "saiggg@gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 32
+    },
+    {
+      "name": "pooja",
+      "email": "saipp@gmail.com",
+      "password": "pp",
+      "confirmpassword": "pp",
+      "id": 33
+    },
+    {
+      "name": "pooja",
+      "email": "saipp@gmail.com",
+      "password": "pp",
+      "confirmpassword": "pp",
+      "id": 34
+    },
+    {
+      "name": "pooja",
+      "email": "saipp@gmail.com",
+      "password": "pp",
+      "confirmpassword": "pp",
+      "id": 35
+    },
+    {
+      "name": "dddkiran",
+      "email": "anshikxxxa@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 36
+    },
+    {
+      "name": "kiranmm",
+      "email": "anshikammmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 37
+    },
+    {
+      "name": "kiranmm",
+      "email": "anshikammmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 38
+    },
+    {
+      "name": "kiranee",
+      "email": "anshikarrr@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 39
+    },
+    {
+      "name": "kirankk",
+      "email": "anshikammmmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 40
+    },
+    {
+      "name": "kirankk",
+      "email": "anshikammmmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 41
+    },
+    {
+      "name": "kirankk",
+      "email": "anshikammmmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 42
+    },
+    {
+      "name": "kirankk",
+      "email": "anshikammmmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 43
+    },
+    {
+      "name": "kirankk",
+      "email": "anshikammmmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 44
+    },
+    {
+      "name": "kirankkxcvdf",
+      "email": "anshikammvfdmmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 45
+    },
+    {
+      "name": "kirankkxcvdf",
+      "email": "anshikammvfdmmm@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 46
+    },
+    {
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "name": "pooja3333",
+      "email": "anshikacccccccccc@123gmail.com",
+      "id": 47
+    },
+    {
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "name": "pooja3333",
+      "email": "anshikacccccccccc@123gmail.com",
+      "id": 48
+    },
+    {
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "name": "pooja3333",
+      "email": "anshikacccccccccc@123gmail.com",
+      "id": 49
+    },
+    {
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "name": "pooja3333",
+      "email": "anshikacccccccccc@123gmail.com",
+      "id": 50
+    },
+    {
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "name": "cxvdcpooja3333",
+      "email": "anshikacccccccc@123gmail.com",
+      "id": 51
+    },
+    {
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "name": "cxvdcpooja3333",
+      "email": "anshikacccccccc@123gmail.com",
+      "id": 52
+    },
+    {
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "name": "cxvdcpooja3333",
+      "email": "anshikacccccccc@123gmail.com",
+      "id": 53
+    },
+    {
+      "name": "kiranmkkk",
+      "email": "poojakkkk@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 54
+    },
+    {
+      "name": "kiranmkkk",
+      "email": "poojakkkk@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 55
+    },
+    {
+      "name": "kiranmkkk",
+      "email": "poojakkkk@123gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 56
+    },
+    {
+      "name": "asdsappp",
+      "email": "saippp@gmail.com",
+      "password": "pooja",
+      "confirmpassword": "pooja",
+      "id": 57
+    }
+  ]
+}
